@@ -1,0 +1,8 @@
+development:
+  # type: http
+  # url: http://localhost:7474
+  type: http
+  url: "http://localhost:7000"
+test:
+  type: http
+  url: http://localhost:7575
